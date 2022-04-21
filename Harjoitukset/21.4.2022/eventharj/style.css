@@ -1,0 +1,12 @@
+.special{
+    font-size: 3em;
+    background-color: burlywood;
+    display: inline-block;
+}
+
+.textcolor{
+    color: brown;
+}
+.textbg{
+    background-color: red;
+}
