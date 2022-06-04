@@ -1,1 +1,1 @@
-Tältä sivustolta löytyy historiaa alaskanmalamuuteista ja joitakin kuvia omasta malamuutistani.
+Tässä repostoriossa on kaikki web-tekniinat kurssin palautettavat koodit
