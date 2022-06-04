@@ -1,5 +1,5 @@
 [class*="container"] {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     background-color: rgb(240, 248, 255);
     border: 1px solid black;
     border-radius: 5px;
@@ -8,6 +8,18 @@
     margin-bottom: 0px;
 }
 
+div > p {
+    color: red;
+    text-transform: uppercase;
+}
+div + p {
+    color: blue;
+    text-transform: uppercase;
+}
+p ~ ul {
+    color: red;
+    background-color: whitesmoke;
+}
 header {
     border: 1px solid black;
     border-radius: 5px;
@@ -18,6 +30,7 @@ header {
     padding: 10px;
     align-items: center;
     margin: 1px;
+
 }
 
 article {
