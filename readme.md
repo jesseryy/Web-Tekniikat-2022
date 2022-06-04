@@ -1,1 +1,1 @@
-Tässä repostoriossa on kaikki web-tekniinat kurssin palautettavat koodit
+Tässä repostoriossa on kaikki web-tekniikat kurssin palautettavat koodit
